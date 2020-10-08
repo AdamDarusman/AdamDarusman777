@@ -1,0 +1,10 @@
+.b{
+    text-align: center;
+}
+.nav-item{
+    color: purple;
+    padding: lem;
+}
+.nav-item:hover{
+    color: blue;
+}
